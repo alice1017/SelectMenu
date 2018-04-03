@@ -2,6 +2,8 @@
 
 [![forthebadge](http://forthebadge.com/images/badges/made-with-python.svg)](http://forthebadge.com)
 
+[![demo](demo.gif)]
+
 ## :page_facing_up: Overview
 
 **SelectMenu** is the input form to **choose from menu** by arrow keys.
