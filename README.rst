@@ -44,7 +44,11 @@ SelectMenu powered by
     $ cd SelectMenu
     $ python setup.py build install
 
-TODO: I will upload pypi registry.
+or
+
+::
+
+    $ pip install SelectMenu
 
 :eyes: Contribution
 -------------------
