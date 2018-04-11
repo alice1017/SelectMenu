@@ -8,7 +8,7 @@ SelectMenu
 
    demo
 
-:page\_facing\_up: Overview
+📄 Overview
 ---------------------------
 
 **SelectMenu** is the input form to **choose from menu** by arrow keys.
@@ -16,7 +16,7 @@ SelectMenu
 SelectMenu powered by
 `**python-prompt-toolkit** <https://github.com/jonathanslenders/python-prompt-toolkit>`__.
 
-:pencil2: Usage
+✏️ Usage
 ---------------
 
 .. code:: python
@@ -35,7 +35,7 @@ SelectMenu powered by
     >>> print result
     Python
 
-:inbox\_tray: Installation
+📥 Installation
 --------------------------
 
 ::
@@ -50,7 +50,7 @@ or
 
     $ pip install SelectMenu
 
-:eyes: Contribution
+👀 Contribution
 -------------------
 
 1. Forks on `Github <https://github.com/alice1017/SelectMenu>`__
